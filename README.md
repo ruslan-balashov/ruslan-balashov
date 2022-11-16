@@ -15,9 +15,6 @@ I'm a software engineer who is passionate about human-centered design.<br>While 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ruslan-balashov&icon=9&color=0)](https://visitcount.itsvg.in)
 
